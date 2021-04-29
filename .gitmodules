@@ -1,0 +1,15 @@
+[submodule "themes/portio"]
+	path = themes/portio
+	url = git@github.com:StaticMania/portio-hugo.git
+[submodule "themes/introduction"]
+	path = themes/introduction
+	url = https://github.com/victoriadrake/hugo-theme-introduction.git
+[submodule "themes/stip"]
+	path = themes/stip
+	url = https://github.com/EmielH/stip-hugo.git
+[submodule "hugo-lodi/themes/hugo-lodi-theme"]
+	path = hugo-lodi/themes/hugo-lodi-theme
+	url = https://github.com/xaviablaza/hugo-lodi-theme.git
+[submodule "hugo-academia/themes/academia"]
+	path = hugo-academia/themes/academia
+	url = git@github.com:themefisher/academia-hugo.git
