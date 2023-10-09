@@ -1,0 +1,33 @@
+# Anna-Maria Siewior
+
+
+## Bildung
+
+{{< fa solid graduation-cap size=lg >}} &nbsp; **Weiterbildung**  Systemische Therapie und Beratung
+<span style="float:right;">2023</span>
+
+$\rightarrow$ ABIS Institute Leipzig.
+
+{{< fa solid graduation-cap size=lg >}} &nbsp; **Master** Sozialpädagogik / Sozialmanagement
+<span style="float:right;">2014</span>
+
+$\rightarrow$ Friedrich-Schiller-Universität Jena.
+
+{{< fa solid graduation-cap size=lg >}} &nbsp; **Bachelor** Erziehungswissenschaften
+<span style="float:right;">2011</span>
+
+$\rightarrow$ Westfälische Wilhelms-Universität Münster.
+
+
+## Berufliche Erfahrung
+
+
+{{< fa solid briefcase size=lg >}} &nbsp; Sozialpädagogin | Caritas Leipzig
+<span style="float:right;">May 2015 – Aktuell</span>
+
+$\rightarrow$  Ambulantes Betreutes Wohnen / Wohnungsnotfallhilfe.
+
+{{< fa solid briefcase size=lg >}} &nbsp; Sozialpädagogin | Wege e.V. Leipzig
+<span style="float:right;">Apr 2014 – Apr 2015</span>
+
+$\rightarrow$  Ambulantes Betreutes Wohnen mit chronisch psychisch kranken Menschen / Sozialpädagogische Familienhilfe.

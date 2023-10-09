@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: ../docs
+
+website:
+  title: "Systemische Beratung und Therapie"
+  
+  
+  site-url: https://siewior.info/
+  repo-url: https://github.com/asiewior/asiewior.github.io
+  
+  navbar:
+    background: "#74a857"
+    title: "Anna-Maria Siewior"
+    collapse-below: lg
+    right:
+      - therapie.qmd
+      - text: Über mich
+        file: ubermich.qmd
+      - kosten.qmd
+      - kontakt.qmd
+
+  page-navigation: false
+  back-to-top-navigation: false
+
+  page-footer:
+    background: "#000000"
+    left: |
+      Copyright &copy; 2023 [Anna-Maria Siewior](https://siewior.info/)
+    right: |
+      [Datenschutz |](/datenschutz.qmd)
+      [Impressum](/impressum.qmd)
+
+format:
+  html:
+    theme: [lux, rwds.scss]
+    css: rwds.css
+    toc: false
+    grid:
+      sidebar-width: 0px
+      body-width: 1000px
+      margin-width: 250px
+
+execute: 
+  freeze: auto

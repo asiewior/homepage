@@ -1,0 +1,37 @@
+# Kontakt
+
+::: {.grid}
+
+::: {.g-col-4}
+
+### Anschrift
+
+Karl-Liebknecht-Straße 103
+
+04275 Leipzig
+
+### Telefon
+
+(+49) 1573 5378647
+
+### E-Mail
+
+<beratung.siewior@posteo.de>
+
+### Instagram
+
+[beratung.siewior](https://www.instagram.com/beratung.siewior/)
+
+:::
+
+
+
+::: {.g-col-8}
+![](images/aussen.jpg)
+:::
+
+
+:::
+
+
+<iframe width="100%" height="400" src="https://www.openstreetmap.org/export/embed.html?bbox=12.37188756465912%2C51.320203037643466%2C12.375272512435915%2C51.32155075763732&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=19/51.32088/12.37358">View Larger Map</a></small>

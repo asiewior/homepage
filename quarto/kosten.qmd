@@ -1,0 +1,20 @@
+# Kosten
+
+Mein Beratungshonorar beträgt: 
+
+::: {.grid}
+
+::: {.g-col-6}
+|     Angebot    | Preis  |
+|--------|--------|
+| Einzelberatung (60 Minuten)  | **80 Euro**   |
+| Paarberatung (90 Minuten)   | **120 Euro**   |
+| Empfänger*innen von Bürgergeld und Studierende (60 Minuten) | **50 Euro**   |
+| Beratung im Co-Team (90 Minuten) | **240 Euro**   |
+
+:::
+
+::: {.g-col-6}
+![](images/innen.jpg)
+:::
+:::

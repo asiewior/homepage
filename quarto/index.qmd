@@ -1,0 +1,20 @@
+# Systemische Therapie und Beratung
+
+
+::: {.grid}
+
+::: {.g-col-4}
+![](images/portrait.jpg)
+:::
+
+::: {.g-col-8}
+Liebe Interessent*innen,
+
+Herzlich Willkommen!
+
+Ich bin **Anna-Maria Siewior** und ausgebildete systemische Therapeutin und biete Beratung für Einzelpersonen sowie Familien-und Paartherapie an.
+
+Seit dem 1. Oktober 2023 darf ich meine Klient*innen herzlichen in eigenen Beratungsräumen begrüßen.
+:::
+
+:::
